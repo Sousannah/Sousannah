@@ -1,6 +1,6 @@
 # 💫 About Me:
 I have technical experience and interest in:
-<br> <br>-Frontend Web Development<br>-Computer vision <br>-Machine Learning<br>-Deep Learning<br>-Neural Networks<br>-Arduino<br>-HTML<br>-CSS<br>-Python<br>-Java<br>-C++
+<br> <br>-Front-end Web Development<br>-Computer vision <br>-Machine Learning<br>-Deep Learning<br>-Neural Networks<br>-Arduino<br>-HTML<br>-CSS<br>-Python<br>-Java<br>-C++
 ---
 [![](https://visitcount.itsvg.in/api?id=sousannah&icon=0&color=0)](https://visitcount.itsvg.in)
 
