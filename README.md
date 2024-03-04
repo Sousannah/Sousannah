@@ -1,6 +1,6 @@
 # 💫 About Me:
 I have technical experience and interest in:
-<br> <br>-Front-end Web Development<br>-Computer vision <br>-Machine Learning<br>-Deep Learning<br>-Neural Networks<br>-Arduino<br>-HTML<br>-CSS<br>-Python<br>-Java<br>-C++
+<br> <br>-Frontend Web Development<br>-Computer vision <br>-Machine Learning<br>-Deep Learning<br>-Neural Networks<br>-Arduino<br>-HTML<br>-CSS<br>-Python<br>-Java<br>-C++
 ---
 [![](https://visitcount.itsvg.in/api?id=sousannah&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -14,16 +14,7 @@ I have technical experience and interest in:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sousannah&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sousannah&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sousannah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sousannah&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
